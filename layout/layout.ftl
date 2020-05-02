@@ -83,6 +83,9 @@
             <link rel="stylesheet" href="${theme_base!}/source/css/widget_pin.css">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css">
         </#if>
+        <#if settings.kanbanniang!true>
+            <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
+        </#if>
     </head>
     <body class="is-3-column">
     <@navbar 'page' />
