@@ -17,6 +17,6 @@
 
 
 ## 使用方法
-1. 克隆或者[下载](https://codeload.github.com/curllen/halo-theme-fantastic/zip/master)。
+1. 克隆或者[下载](https://codeload.github.com/curllen/halo-theme-fantastic-md/zip/master)。
 2. 压缩为 zip 压缩包之后在后台的主题设置直接上传即可使用。
 3. 用Halo自还的程序拉取 `https://github.com/c更新redurllen/halo-theme-fantastic-md.git`
